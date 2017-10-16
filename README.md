@@ -1,2 +1,2 @@
 # firstGame
-This don't intresting.
+This don't interesting.
